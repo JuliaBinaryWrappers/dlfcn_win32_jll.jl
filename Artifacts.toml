@@ -1,16 +1,16 @@
 [[dlfcn_win32]]
 arch = "i686"
-git-tree-sha1 = "315818075f6b527cbe36606a7b8fb9a5fffa6b35"
+git-tree-sha1 = "f2d06cdc25a92a86d0f71d206a00227343127c7b"
 os = "windows"
 
     [[dlfcn_win32.download]]
-    sha256 = "367133fbd6bcd7548b80532d4e5f785a6617c4420677f654c9b35ec316208d5d"
-    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.1+0/dlfcn_win32.v1.4.1.i686-w64-mingw32.tar.gz"
+    sha256 = "57c8a418e14388b638a0ead0b39677a25677cc0ae2caed59da2170af31a25593"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.2+0/dlfcn_win32.v1.4.2.i686-w64-mingw32.tar.gz"
 [[dlfcn_win32]]
 arch = "x86_64"
-git-tree-sha1 = "b8f00479e46e754fa2a0729f17f17772f1957408"
+git-tree-sha1 = "b2cc1ddc8dc0352437303efa0dc880a14f972a29"
 os = "windows"
 
     [[dlfcn_win32.download]]
-    sha256 = "d53cd04aeb2bbcb2a575cb5514221cc27d535f4f44c2b3bd0aa7c635ff372e6f"
-    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.1+0/dlfcn_win32.v1.4.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "9bfca061e359290c52480421b7c32b17fdbd653516b7257f3322f82e139a7a5a"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.2+0/dlfcn_win32.v1.4.2.x86_64-w64-mingw32.tar.gz"

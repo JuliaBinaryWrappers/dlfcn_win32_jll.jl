@@ -1,16 +1,60 @@
 [[dlfcn_win32]]
 arch = "i686"
-git-tree-sha1 = "f2d06cdc25a92a86d0f71d206a00227343127c7b"
+git-tree-sha1 = "120adf61382c257879d5a82ea4bb566dd780eb2d"
+libc = "msvcrt"
 os = "windows"
 
     [[dlfcn_win32.download]]
-    sha256 = "57c8a418e14388b638a0ead0b39677a25677cc0ae2caed59da2170af31a25593"
-    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.2+0/dlfcn_win32.v1.4.2.i686-w64-mingw32.tar.gz"
+    sha256 = "d569645f9b998550d6452a05939a05d64cccf4608c003706a1eb14e1117b8301"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.3/dlfcn_win32.v1.4.3.i686-w64-mingw32.tar.gz"
 [[dlfcn_win32]]
 arch = "x86_64"
-git-tree-sha1 = "b2cc1ddc8dc0352437303efa0dc880a14f972a29"
+git-tree-sha1 = "cb1f5db58c42ae78b4ce31765c1cc330be64b2a8"
+libc = "msvcrt"
 os = "windows"
 
     [[dlfcn_win32.download]]
-    sha256 = "9bfca061e359290c52480421b7c32b17fdbd653516b7257f3322f82e139a7a5a"
-    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.2+0/dlfcn_win32.v1.4.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "badfb8a9b7af5d5f68aa3e3e3335a53c869361639a4949712ea2cedc99c782d4"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.3/dlfcn_win32.v1.4.3.x86_64-w64-mingw32.tar.gz"
+
+[[dlfcn_win32-build_log]]
+arch = "i686"
+git-tree-sha1 = "d7a1e394a8c6adf6dc5bd04172234471d1a1f86e"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[dlfcn_win32-build_log.download]]
+    sha256 = "15e893f6798496253bef004b6ed91e310b88e0eb6662b4068b17c5de2aa9588d"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.3/dlfcn_win32-build_log.v1.4.3.i686-w64-mingw32.tar.gz"
+[[dlfcn_win32-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "c0a8309ec3f755e0adf6084278db2ff5f274de39"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[dlfcn_win32-build_log.download]]
+    sha256 = "f4230d9f4dc70060bb2377ca05e6104d24645a90a7d199eab4ce75abff8e30d9"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.3/dlfcn_win32-build_log.v1.4.3.x86_64-w64-mingw32.tar.gz"
+
+[[dlfcn_win32-extract_log]]
+arch = "i686"
+git-tree-sha1 = "cd70e3fbf29b7b922eb3065672a2a28e3410f8b8"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[dlfcn_win32-extract_log.download]]
+    sha256 = "f1c1bc4649a27b5019388b88839be856b36a9f5242102f397d184d77bd07e57b"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.3/dlfcn_win32-extract_log.v1.4.3.i686-w64-mingw32.tar.gz"
+[[dlfcn_win32-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "9bb3406dd52e46e5bf7ce64ea2430b6166ff1c0e"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[dlfcn_win32-extract_log.download]]
+    sha256 = "a8a73286f8465df30614b3075928e9707758d92c5d058c19ee6b72ea6d64f25e"
+    url = "https://github.com/JuliaBinaryWrappers/dlfcn_win32_jll.jl/releases/download/dlfcn_win32-v1.4.3/dlfcn_win32-extract_log.v1.4.3.x86_64-w64-mingw32.tar.gz"
